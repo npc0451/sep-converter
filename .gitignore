@@ -23,5 +23,7 @@ fonts/
 *.log
 *.part
 *.zip
+*.txt
+!requirements*.txt
 ORIGINAL_SOURCES.json
 VERIFICATION.md
